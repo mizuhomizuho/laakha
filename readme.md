@@ -1,6 +1,7 @@
 # Laakha Shop
 
-[ʕ ᵔᴥᵔ ʔ](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/Screenshot_326.png)
+[Logo ʕ ᵔᴥᵔ ʔ](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/Screenshot_326.png)
+and [My code](https://github.com/mizuhomizuho/laakha/tree/master/www/wp-content/themes/laakha)
 
 ### Technology stack:
 
@@ -9,6 +10,8 @@
 - jQuery
 - WordPress
 - WooCommerce
+- [Libs](https://github.com/mizuhomizuho/laakha/tree/master/www/wp-content/themes/laakha/libs)
+- [Plugins](https://github.com/mizuhomizuho/laakha/tree/master/www/wp-content/plugins)
 
 ### Screenshots:
 
