@@ -1,0 +1,198 @@
+
+Sep 18, 2020 11.59.40: 1600430380 : Uncaught ArgumentCountError: Too few arguments to function {closure}(), 1 passed in /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:506
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(289): {closure}('<span class="wo...')
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/u
+
+Sep 18, 2020 12.00.02: 1600430402 : Uncaught ArgumentCountError: Too few arguments to function {closure}(), 1 passed in /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php on line 289 and exactly 2 expected in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:506
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(289): {closure}('<span class="wo...')
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/u
+
+Sep 18, 2020 12.04.12: 1600430652 : Uncaught Error: Cannot use object of type WC_Product_Variable as array in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functio
+
+Sep 18, 2020 12.04.37: 1600430677 : Uncaught Error: Cannot use object of type WC_Product_Variable as array in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functio
+
+Sep 18, 2020 12.04.43: 1600430683 : Uncaught Error: Cannot use object of type WC_Product_Variable as array in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functio
+
+Sep 18, 2020 12.08.26: 1600430906 : Uncaught Error: Call to undefined method WC_Product_Variable::get() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functions.
+
+Sep 18, 2020 12.08.50: 1600430930 : Uncaught Error: Call to undefined method WC_Product_Variable::get() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functions.
+
+Sep 18, 2020 12.08.51: 1600430931 : Uncaught Error: Call to undefined method WC_Product_Variable::get() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functions.
+
+Sep 18, 2020 12.08.52: 1600430932 : Uncaught Error: Call to undefined method WC_Product_Variable::get() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functions.
+
+Sep 18, 2020 12.08.53: 1600430933 : Uncaught Error: Call to undefined method WC_Product_Variable::get() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:507
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<span class="wo...', Object(WC_Product_Variable))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(170): apply_filters('woocommerce_get...', '<span class="wo...', Object(WC_Product_Variable))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/templates/single-product/price.php(25): WC_Product_Variable->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/usr/www/users/...')
+#5 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/wc-template-functions.
+
+Sep 18, 2020 12.29.26: 1600432166 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.28: 1600432168 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.30: 1600432170 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.32: 1600432172 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.50: 1600432190 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.52: 1600432192 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.29.53: 1600432193 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.30.18: 1600432218 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.30.24: 1600432224 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.31.04: 1600432264 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.31.08: 1600432268 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
+
+Sep 18, 2020 12.31.29: 1600432289 : Uncaught Error: Call to undefined method WC_Product_Variation::get_variation_prices() in /usr/www/users/catweb/laakha.com/www/wp-content/themes/laakha/inc/functionsCommon.php:508
+Stack trace:
+#0 /usr/www/users/catweb/laakha.com/www/wp-includes/class-wp-hook.php(287): {closure}('<del><span clas...', Object(WC_Product_Variation))
+#1 /usr/www/users/catweb/laakha.com/www/wp-includes/plugin.php(206): WP_Hook->apply_filters('<del><span clas...', Array)
+#2 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1767): apply_filters('woocommerce_get...', '<del><span clas...', Object(WC_Product_Variation))
+#3 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(354): WC_Product->get_price_html()
+#4 /usr/www/users/catweb/laakha.com/www/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(487): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#5 /usr/www/users/catweb/laakha.com/www/
