@@ -1,4 +1,4 @@
-# Laakha Shop
+# Laakha Shop 2020
 
 [Logo ʕ ᵔᴥᵔ ʔ](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/Screenshot_326.png)
 and [My code](https://github.com/mizuhomizuho/laakha/tree/master/www/wp-content/themes/laakha)
@@ -16,5 +16,5 @@ and [My code](https://github.com/mizuhomizuho/laakha/tree/master/www/wp-content/
 ### Screenshots:
 
 - [Front page](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com_v8.png)
-- [Catalog](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com_shop_.png)
+- [Catalog](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com_cat88.png)
 - [Product](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha-cat.png)
