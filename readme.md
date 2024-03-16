@@ -12,6 +12,6 @@
 
 ### Screenshots:
 
-- [Front page](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com.png)
+- [Front page](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com_v8.png)
 - [Catalog](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha.com_shop_.png)
 - [Product](https://github.com/mizuhomizuho/laakha/blob/master/screenshots/laakha-cat.png)
