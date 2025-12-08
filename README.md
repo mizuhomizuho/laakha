@@ -1,6 +1,6 @@
 # Laakha Shop 2020
 
-<img src="https://github.com/mizuhomizuho/laakha/blob/master/screenshots/Screenshot_326.png" alt="">
+<img src="https://github.com/mizuhomizuho/laakha/blob/master/screenshots/logo.png" alt="">
 
 ## Technology stack:
 
